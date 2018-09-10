@@ -1,8 +1,10 @@
 ---
-title: My Grandfather (S. Pritam Singh Kasad)
+title: My Grandfather
 author: Tejpal Singh
 layout: post
 ---
+
+**My Grandfather (S. Pritam Singh Kasad)**
 
 My Grand father, a man that is worldly known. 
 Travelling to many countries, having his poetry praised and shown. 
